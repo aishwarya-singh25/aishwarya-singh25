@@ -6,11 +6,13 @@ Highly skilled at
 * Python, R, SQL
 * Machine Learning
 * Time Series Forecasting
+* Deep Learning Algorithms
+* Natural Language Processing
 
 
 Reach me at:
 <br>
-  • ✉️ aish25@uw.edu </br>
+  • ✉️ aishwaryasingh257@gmail.com </br>
   <br> • https://www.linkedin.com/in/aish25-bb4702119/ </br>
   <br> • https://medium.com/@aishwaryasingh257 </br>
 
