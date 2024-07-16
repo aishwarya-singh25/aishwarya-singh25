@@ -12,18 +12,12 @@ I recently graduated with a Masters in Data Science from the University of Washi
   I am working as a part-time mentor for data analytics and machine learning courses.
 
 
-Reach me at:
-<br>
-  • ✉️ aishwaryasingh257@gmail.com </br>
-  <br> • https://www.linkedin.com/in/aish25-bb4702119/ </br>
-  <br> • https://medium.com/@aishwaryasingh257 </br>
-
 ## 🌐 Reach me at :
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@aishwaryasingh257@gmail.com)](mailto:aishwaryasingh257@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aish25s/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aishwaryasingh257) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
