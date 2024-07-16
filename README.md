@@ -2,13 +2,6 @@
 
 I recently graduated with a Masters in Data Science from the University of Washington (Seattle), backed by 5 years in Data Science across startups in retail, ecommerce, supply chain and cybersecurity. I am actively looking for roles in Data Analytics and Data Science Industry.
 
-Highly skilled at
-* Python, R, SQL
-* Machine Learning
-* Time Series Forecasting
-* Deep Learning Algorithms
-* Natural Language Processing
-
 - 🔭 I’m currently working on .... <br>
    Expanding my skillset on NLP and LLM concepts. Ongoing projects include using LLM to implement a data visualization dashboard.
 - 🤔 I’m looking for help with .... <br>
