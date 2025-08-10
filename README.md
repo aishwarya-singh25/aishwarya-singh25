@@ -1,4 +1,4 @@
-### Hi There! 
+## Hi There! 
 
 I am a Software Developer, working on the GenAI Search Team at American Express. We're using GenAI techniques to enhance the search results for customers, thus boosting the CTR, improving containment rate, and reducing chat escalations.
 
@@ -8,12 +8,12 @@ Previously, I worked as a Data Scientist across startups in retail, e-commerce, 
 - 👩🏻‍💻 Staying up to date with advancements in LLMs and Generative AI
 - 💬 Ask me about LLMs, GenAI, Data Analytics and ML concepts/resources to study
 
-## 🌐 Reach me at :
+### 🌐 Reach me at :
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@aishwaryasingh257@gmail.com)](mailto:aishwaryasingh257@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aish25s/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aishwaryasingh257) 
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -26,7 +26,7 @@ Previously, I worked as a Data Scientist across startups in retail, e-commerce, 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 
-## Work Eligibility :
+### Work Eligibility :
 Legally authorized to work in USA, without sponsorship.
 
 
