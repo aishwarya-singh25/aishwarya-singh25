@@ -1,16 +1,12 @@
-### Hi there 👋, I am Aishwarya
+### Hi There! 
 
-I recently graduated with a Masters in Data Science from the University of Washington (Seattle), backed by 5 years in Data Science across startups in retail, ecommerce, supply chain and cybersecurity. I am actively looking for roles in Data Analytics and Data Science Industry.
+I am a Software Developer, working on the GenAI Search Team at American Express. We're using GenAI techniques to enhance the search results for customers, thus boosting the CTR, improving containment rate, and reducing chat escalations.
 
-- 🔭 I’m currently working on .... <br>
-   Expanding my skillset on NLP and LLM concepts. Ongoing projects include using LLM to implement a data visualization dashboard.
-- 🤔 I’m looking for help with .... <br>
-  Referrals and lead for jobs in Analytics, Data Science and ML space
-- 💬 Ask me about .... <br>
-   Data Analytics and Machine Learning concepts, resources to study and personal projects
-- ⚡ Fun fact .... <br>
-  I am working as a part-time mentor for data analytics and machine learning courses.
+Previously, I worked as a Data Scientist across startups in retail, e-commerce, supply chain, and cybersecurity, and served as an AI/ML mentor at Springboard and Analytics Vidhya.
 
+- 🎓 Masters in Data Science from University of Washington
+- 👩🏻‍💻 Staying up to date with advancements in LLMs and Generative AI
+- 💬 Ask me about LLMs, GenAI, Data Analytics and ML concepts/resources to study
 
 ## 🌐 Reach me at :
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@aishwaryasingh257@gmail.com)](mailto:aishwaryasingh257@gmail.com)
@@ -27,7 +23,7 @@ I recently graduated with a Masters in Data Science from the University of Washi
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 
 ## Work Eligibility :
